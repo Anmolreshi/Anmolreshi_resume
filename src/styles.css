@@ -1,0 +1,231 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.lines-1 {
+  font-size: 22px;
+  font-family: Courier New;
+  line-height: 30px;
+  padding: 10px;
+}
+
+.center {
+  justify-content: center;
+}
+.projectimage {
+  height: 100%;
+  width: 100%;
+}
+/* .imagemy{
+  height:330px;
+  max-width: 100%;
+
+} */
+
+.space {
+  margin-top: 80px;
+}
+.spacex {
+  margin-top: 150px;
+}
+.space-1 {
+  margin-top: 40px;
+}
+.headingtitle {
+  font-size: 4vh;
+}
+
+.line-1 {
+  position: relative;
+  border-right: 2px solid rgba(0, 0, 0, 0.75);
+  /* font-size: 60px; */
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateY(-50%);
+  /* margin-left: 490px;
+  margin-top: 50px; */
+  font-family: sans-serif;
+}
+.anim-typewriter {
+  animation: typewriter 3s steps(48) 1s 1 normal both,
+    blinkTextCursor 500ms steps(48) infinite normal;
+}
+@keyframes blinkTextCursor {
+  from {
+    border-right-color: rgba(0, 0, 0, 0.75);
+  }
+  to {
+    border-right-color: transparent;
+  }
+}
+
+@keyframes typewriter {
+  from {
+    width: 0;
+  }
+  to {
+    width: 11.2em;
+  }
+}
+@media screen and (max-width: 2579px) {
+  .imagemy {
+    width: 78vw;
+  }
+  .socialmedia {
+    height: auto;
+    width: 40px;
+  }
+  .skilllogo1 {
+    height: 8vh;
+    margin-top: 10px;
+  }
+  .imge {
+    margin-top: 80px;
+    height: auto;
+    width: 900px;
+    margin-left: 70px;
+  }
+  #name {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 100px;
+    font-size: 150px;
+  }
+  .ss {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 590px;
+  }
+}
+.navbarbackground {
+  background-color: black;
+}
+.navitems1 {
+  padding: 20px;
+  font-weight: bold;
+}
+.navo {
+  position: sticky;
+  top: 0%;
+}
+@media screen and (max-width: 1401px) {
+  .imagemy {
+    width: 90vw;
+  }
+  .socialmedia {
+    height: auto;
+    width: 40px;
+  }
+  .skilllogo1 {
+    height: 12vh;
+    margin-top: 10px;
+  }
+  .imge {
+    margin-top: 80px;
+    height: auto;
+    width: 700px;
+    margin-left: 100px;
+  }
+  #name {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 90px;
+    font-size: 140px;
+  }
+  .ss {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 590px;
+  }
+}
+@media screen and (max-width: 1034px) {
+  .imagemy {
+    width: 93vw;
+  }
+  .socialmedia {
+    height: auto;
+    width: 40px;
+  }
+  .skilllogo1 {
+    height: 12vh;
+    margin-top: 10px;
+  }
+  .imge {
+    margin-top: 80px;
+    height: auto;
+    width: 670px;
+    margin-left: 10px;
+  }
+  #name {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 90px;
+    font-size: 100px;
+  }
+  .ss {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 460px;
+  }
+}
+@media screen and (max-width: 779px) {
+  .imagemy {
+    width: 74vw;
+  }
+  .socialmedia {
+    height: auto;
+    width: 35px;
+  }
+  .skilllogo1 {
+    height: 7vh;
+    margin-top: 10px;
+  }
+  .imge {
+    margin-top: 90px;
+    height: auto;
+    width: 470px;
+  }
+  #name {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 90px;
+    font-size: 70px;
+  }
+  .ss {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 290px;
+  }
+}
+@media screen and (max-width: 479px) {
+  .imagemy {
+    width: 89vw;
+  }
+  .socialmedia {
+    height: auto;
+    width: 35px;
+  }
+  .skilllogo1 {
+    height: 7vh;
+    margin-top: 10px;
+  }
+  .imge {
+    display: none;
+  }
+  #name {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 90px;
+    font-size: 40px;
+  }
+  .ss {
+    font-size: 19px;
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+}
+/* .socialmedia{
+  height: auto;
+  width: 40px;
+} */
