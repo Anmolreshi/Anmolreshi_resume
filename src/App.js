@@ -196,14 +196,14 @@ function App() {
                 alt="Card image cap"
               />
               <CardBody>
-                <CardTitle tag="h5">Resume using JS</CardTitle>
+                <CardTitle tag="h5">Dog Image generator API</CardTitle>
                 <CardText>
-                  Made website using JavaScript telling about myself . Also
-                  Implemented Dark Mode into this Web App.
+                  Made a website which display random dog images using dog API.
+    Made it using react and designing done through Reactstrap.
                 </CardText>
                 <Button
                   id="skills"
-                  href="https://anmolreshi.github.io/PORTFOLIO/my_portfolio/index.html"
+                  href="https://github.com/Anmolreshi/randomdogapi"
                   color="warning"
                 >
                   <b>Project Link</b>
