@@ -10,7 +10,7 @@ import {
   CardBody,
   CardTitle
 } from "reactstrap";
-import dev from "./images/dev.png";
+import dev from "./images/dev.jpg";
 import git from "./images/git.png";
 import redux from "./images/redux.png";
 import bootstrap from "./images/bootstrap.png";
