@@ -10,6 +10,12 @@ import {
   CardBody,
   CardTitle
 } from "reactstrap";
+import git from "./images/git.png";
+import redux from "./images/redux.png";
+import bootstrap from "./images/bootstrap.png";
+import c from "./images/clang.png";
+import cplus from "./images/cpluss.png";
+import react from "./images/react1.png";
 import html from "./images/html-5.png";
 import gs from "./images/gs.jpg";
 import cal from "./images/cal.png";
@@ -25,7 +31,7 @@ import githublogo from "./images/githublogo.png";
 import css from "./images/css.png";
 import jquery from "./images/jquery.png";
 import Javascript from "./images/javascript.png";
-import react from "./images/react.png";
+// import react from "./images/react.png";
 import developer from "./images/dev.jpg";
 import gmail from "./images/gmail.png";
 import snapchat from "./images/snapchat.png";
@@ -287,16 +293,16 @@ function App() {
           <img style={skilllogo} alt="coding-ninjas" src={html} />
         </Col>
       <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={html} />
+          <img style={skilllogo} alt="coding-ninjas" src={c} />
         </Col>
       <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={html} />
+          <img style={skilllogo} alt="coding-ninjas" src={cplus} />
         </Col>
       <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={html} />
+          <img style={skilllogo} alt="coding-ninjas" src={bootstrap} />
         </Col>
       <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={html} />
+          <img style={skilllogo} alt="coding-ninjas" src={redux} />
         </Col>
         <Col xl={2} lg={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={css} />
