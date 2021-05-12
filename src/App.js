@@ -339,6 +339,9 @@ function App() {
         <Col xl={2} lg={2} md={2} xs={6}>
           <img style={skilllogo} alt="coding-ninjas" src={visualstudiocode} />
         </Col>
+         <Col xl={2} lg={2} md={2} xs={6}>
+          <img style={skilllogo} alt="coding-ninjas" src={git} />
+        </Col>
       </Row>
 
       <Row id="about" className="center space">
