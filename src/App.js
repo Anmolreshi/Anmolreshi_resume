@@ -308,7 +308,7 @@ function App() {
           <img style={skilllogo} alt="coding-ninjas" src={css} />
         </Col>
       </Row>
-      <Row style={{ display: "flex" }}>
+      <Row className="space-1" style={{ display: "flex" }}>
         <Col xl={2} lg={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={Javascript} />
         </Col>
