@@ -280,10 +280,22 @@ function App() {
       </Row>
 
       <Row className="center space headingtitle">
-        <b>My Web Stack</b>
+        <b>My Stack</b>
       </Row>
       <Row className="space-1" style={{ display: "flex" }}>
         <Col xl={2} lg={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={html} />
+        </Col>
+      <Col xl={2} lg={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={html} />
+        </Col>
+      <Col xl={2} lg={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={html} />
+        </Col>
+      <Col xl={2} lg={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={html} />
+        </Col>
+      <Col xl={2} lg={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={html} />
         </Col>
         <Col xl={2} lg={2} xs={2}>
