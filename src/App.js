@@ -10,7 +10,7 @@ import {
   CardBody,
   CardTitle
 } from "reactstrap";
-import dev from "./images/dev.jpg";
+import dev1 from "./images/dev1.png";
 import git from "./images/git.png";
 import redux from "./images/redux.png";
 import bootstrap from "./images/bootstrap.png";
@@ -411,7 +411,7 @@ function App() {
             </a>
          <Col xl={1} lg={1} sm={2} xs={2}>
           <a href="https://devfolio.co/@Areshi">
-          <img className="socialmedia" alt="email" src={dev} />
+          <img className="socialmedia" alt="email" src={dev1} />
             </a>
         </Col>
         <Col xl={1} lg={1} sm={2} xs={2}>
