@@ -406,38 +406,39 @@ function App() {
       </Row>
       <Row className="center space">Follow me on the web</Row>
       <Row className="center space-1">
-        <Col xl={1} lg={1} sm={2} xs={2}>
-          <a href="https://github.com/Anmolreshi">
-          <img className="socialmedia" alt="github" src={github} />
-            </a>
-         <Col xl={1} lg={1} sm={2} xs={2}>
-          <a href="https://devfolio.co/@Areshi">
-          <img className="socialmedia" alt="dev" src={hashnode} />
-            </a>
-        </Col>
-        <Col xl={1} lg={1} sm={2} xs={2}>
-          <a href="mailto:anmolreshi@gmail.com">
-          <img className="socialmedia" alt="email" src={gmail} />
-            </a>
-        </Col>
-        <Col xl={1} lg={1} sm={2} xs={2}>
-          <a href="https://www.instagram.com/iamanmolreshi_20/">
-          <img className="socialmedia" alt="instagram" src={instagram} />
-            </a>
-        </Col>
-        <Col xl={1} lg={1} sm={2} xs={2}>
-          <img className="socialmedia" alt="snapchat" src={snapchat} />
-        </Col>
-        <Col xl={1} lg={1} sm={2} xs={2}>
-            <a href="https://www.linkedin.com/in/anmolreshi/">
-          <img className="socialmedia" alt="linkedin" src={linkedin} />
-            </a>
-        </Col>
-        <Col xl={1} lg={1} sm={2} xs={2}>
-          <a href="https://twitter.com/AnmolreshiAnmol">
-          <img className="socialmedia" alt="email" src={twitter} />
-            </a>
-        </Col>
+                  <Col xl={1} lg={1} sm={2} xs={2}>
+                    <a href="https://github.com/Anmolreshi">
+                    <img className="socialmedia" alt="github" src={github} />
+                      </a>
+                   </Col>
+                   <Col xl={1} lg={1} sm={2} xs={2}>
+                    <a href="https://devfolio.co/@Areshi">
+                    <img className="socialmedia" alt="dev" src={hashnode} />
+                      </a>
+                  </Col>
+                  <Col xl={1} lg={1} sm={2} xs={2}>
+                    <a href="mailto:anmolreshi@gmail.com">
+                    <img className="socialmedia" alt="email" src={gmail} />
+                      </a>
+                  </Col>
+                  <Col xl={1} lg={1} sm={2} xs={2}>
+                    <a href="https://www.instagram.com/iamanmolreshi_20/">
+                    <img className="socialmedia" alt="instagram" src={instagram} />
+                      </a>
+                  </Col>
+                  <Col xl={1} lg={1} sm={2} xs={2}>
+                    <img className="socialmedia" alt="snapchat" src={snapchat} />
+                  </Col>
+                  <Col xl={1} lg={1} sm={2} xs={2}>
+                      <a href="https://www.linkedin.com/in/anmolreshi/">
+                    <img className="socialmedia" alt="linkedin" src={linkedin} />
+                      </a>
+                  </Col>
+                  <Col xl={1} lg={1} sm={2} xs={2}>
+                    <a href="https://twitter.com/AnmolreshiAnmol">
+                    <img className="socialmedia" alt="email" src={twitter} />
+                      </a>
+                  </Col>
       </Row>
       <Row className="space"></Row>
       <hr />
