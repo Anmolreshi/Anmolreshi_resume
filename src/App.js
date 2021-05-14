@@ -12,6 +12,7 @@ import {
 } from "reactstrap";
 import dev1 from "./images/dev1.png";
 import git from "./images/git.png";
+import hashnode from "./images/hashnode.png";
 import redux from "./images/redux.png";
 import bootstrap from "./images/bootstrap.png";
 import c from "./images/clang.png";
@@ -411,7 +412,7 @@ function App() {
             </a>
          <Col xl={1} lg={1} sm={2} xs={2}>
           <a href="https://devfolio.co/@Areshi">
-          <img className="socialmedia" alt="dev" src={dev1} />
+          <img className="socialmedia" alt="dev" src={hashnode} />
             </a>
         </Col>
         <Col xl={1} lg={1} sm={2} xs={2}>
