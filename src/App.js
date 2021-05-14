@@ -412,7 +412,7 @@ function App() {
                       </a>
                    </Col>
                    <Col xl={1} lg={1} sm={2} xs={2}>
-                    <a href="https://devfolio.co/@Areshi">
+                    <a href="https://hashnode.com/@anmolreshi">
                     <img className="socialmedia" alt="dev" src={hashnode} />
                       </a>
                   </Col>
