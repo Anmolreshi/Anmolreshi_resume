@@ -118,15 +118,14 @@ function App() {
                 alt="Card image cap"
               />
               <CardBody>
-                <CardTitle tag="h5">Calculator using JS</CardTitle>
+                <CardTitle tag="h5">Slack Clone </CardTitle>
                 <CardText
                   style={{ textAlign: "justify", justifyContent: "justify" }}
                 >
-                  An Interactive Ui based calucator performing basic functions
-                  and operations.
+                 Made Front end of Slack Clone using React Js , Redux ,React Hooks, Firebase and some Js libraries .
                 </CardText>
                 <Button
-                  href="https://github.com/Anmolreshi/Calculator-webdev"
+                  href="https://github.com/Anmolreshi/slack-clone"
                   color="warning"
                 >
                   <b>Project Link</b>
