@@ -74,9 +74,9 @@ function App() {
         &nbsp; Loves To spend Time at&nbsp;<b>Gym</b>
       </Row>
       <Row className="lines-1 space-1">
-        <a href="mailto:anmolreshi@gmail.com">
+        <a href="https://docs.google.com/document/d/16IbvvkVDMEMxm1BG1MRyRPcziByv-ReeAasHesT-rCE/edit?usp=sharing">
           <Button id="work" style={{ backgroundColor: "black" }}>
-            <b>Work With Me</b>
+            <b>Resume</b>
           </Button>
         </a>
       </Row>
