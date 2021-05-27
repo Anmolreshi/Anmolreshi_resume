@@ -443,8 +443,6 @@ function App() {
                     <img className="socialmedia" alt="instagram" src={instagram} />
                       </a>
                   </Col>
-                   <Col  xl={0} lg={0} xs={2}></Col>
-                   <Col  xl={0} lg={0} xs={2}></Col>
                   <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
                     <img className="socialmedia" alt="snapchat" src={snapchat} />
                   </Col>
