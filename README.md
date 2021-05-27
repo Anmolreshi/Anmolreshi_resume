@@ -1,3 +1,7 @@
 # Anmolreshi_resume
-Created with CodeSandbox
-anmol
+ Online Portfolio 
+ <br/>
+## TECH STACKS
+- React Js 
+- Js
+- CSS
