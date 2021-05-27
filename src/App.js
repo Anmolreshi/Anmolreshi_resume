@@ -310,9 +310,7 @@ function App() {
       <Col xl={2} lg={2} md={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={bootstrap} />
         </Col>
-      <Col xl={2} lg={2} md={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={redux} />
-        </Col>
+ 
        <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
         
       </Row>
@@ -346,6 +344,9 @@ function App() {
         </Col>
         <Col xl={2} lg={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={material} />
+        </Col>
+       <Col xl={2} lg={2} md={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={redux} />
         </Col>
      <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
       </Row>
