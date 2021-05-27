@@ -10,6 +10,7 @@ import {
   CardBody,
   CardTitle
 } from "reactstrap";
+import medium from "./images/medium.png";
 import netlify from "./images/netlify.png";
 import nextjs from "./images/nextjs.png";
 import material from "./images/material.png";
@@ -443,7 +444,7 @@ function App() {
                       </a>
                   </Col>
                    <Col xs={2}></Col>
-                   <Col xs={3}></Col>
+                   <Col xs={2}></Col>
                   <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
                     <img className="socialmedia" alt="snapchat" src={snapchat} />
                   </Col>
@@ -459,7 +460,12 @@ function App() {
                     <img className="socialmedia" alt="email" src={twitter} />
                       </a>
                   </Col>
-                  <Col xs={3}></Col>
+                   <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
+                    <a href="https://anmolreshi.medium.com/">
+                    <img className="socialmedia" alt="medium" src={medium} />
+                      </a>
+                  </Col>
+                  <Col xs={2}></Col>
                   <Col md={1}></Col>
       </Row>
       <Row className="space"></Row>
