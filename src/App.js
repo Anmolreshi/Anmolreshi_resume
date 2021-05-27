@@ -422,7 +422,7 @@ function App() {
       <Row className="center space">Follow me on the web</Row>
       <Row className="center space-1">
                    <Col  xl={0} lg={0} md={1}></Col>
-                    <Col  xl={0} lg={0} xs={2}></Col>
+  
                   <Col xl={1} lg={1} md={1} sm={3} xs={2}>
                     <a href="https://github.com/Anmolreshi">
                     <img className="socialmedia" alt="github" src={github} />
@@ -463,7 +463,7 @@ function App() {
                     <img className="socialmedia" alt="medium" src={medium} />
                       </a>
                   </Col>
-                  <Col xl={0} lg={0} xs={2}></Col>
+              
                   <Col  xl={0} lg={0} md={1}></Col>
       </Row>
       <Row className="space"></Row>
