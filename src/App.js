@@ -295,19 +295,19 @@ function App() {
       </Row>
       <Row className="space-1" style={{ display: "flex" }}>
        <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
-        <Col xl={2} lg={2} md={2} xs={2}>
+        <Col xl={2} lg={2} md={2} sm={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={html} />
         </Col>
-       <Col xl={2} lg={2} md={2} xs={2}>
+       <Col xl={2} lg={2} md={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={css} />
         </Col>
-      <Col xl={2} lg={2} md={2} xs={2}>
+      <Col xl={2} lg={2} md={2}  sm={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={c} />
         </Col>
-      <Col xl={2} lg={2} md={2} xs={2}>
+      <Col xl={2} lg={2} md={2} sm={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={cplus} />
         </Col>
-      <Col xl={2} lg={2} md={2} xs={2}>
+      <Col xl={2} lg={2} md={2} sm={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={bootstrap} />
         </Col>
  
@@ -316,19 +316,19 @@ function App() {
       </Row>
       <Row className="space-1" style={{ display: "flex" }}>
      <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
-        <Col xl={2} lg={2} md={2} xs={2}>
+        <Col xl={2} lg={2} md={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={c} />
         </Col>
-        <Col xl={2} lg={2} xs={2}>
+        <Col xl={2} lg={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={Javascript} />
         </Col>
-        <Col xl={2} lg={2} xs={2}>
+        <Col xl={2} lg={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={jquery} />
         </Col>
-        <Col xl={2} lg={2} xs={2}>
+        <Col xl={2} lg={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={react} />
         </Col>
-        <Col xl={2} lg={2} xs={2}>
+        <Col xl={2} lg={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="tailwind" src={tailwind} />
         </Col>
      <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
@@ -336,16 +336,16 @@ function App() {
     
       <Row className="space-1" style={{ display: "flex" }}>
      <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
-        <Col xl={2} lg={2} md={2} xs={2}>
+        <Col xl={2} lg={2} md={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={nextjs} />
         </Col>
-        <Col xl={2} lg={2} xs={2}>
+        <Col xl={2} lg={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={styled} />
         </Col>
-        <Col xl={2} lg={2} xs={2}>
+        <Col xl={2} lg={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={material} />
         </Col>
-       <Col xl={2} lg={2} md={2} xs={2}>
+       <Col xl={2} lg={2} md={2} sm={2}  xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={redux} />
         </Col>
      <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
