@@ -10,6 +10,7 @@ import {
   CardBody,
   CardTitle
 } from "reactstrap";
+import netlify from "./images/netlify.png";
 import nextjs from "./images/nextjs.png";
 import material from "./images/material.png";
 import tailwind from "./images/tailwind.png";
@@ -355,6 +356,7 @@ function App() {
         <b>Development Tools</b>
       </Row>
       <Row className="space-1">
+        <Col xl={1} lg={1} sm={1} xs={1} ></Col>
         <Col xl={2} lg={2} md={2} xs={6}>
           <img style={skilllogo} alt="coding-ninjas" src={firebase} />
         </Col>
@@ -362,14 +364,24 @@ function App() {
           <img style={skilllogo} alt="coding-ninjas" src={githublogo} />
         </Col>
         <Col xl={2} lg={3} md={3} xs={6}>
-          <img style={skilllogo} alt="coding-ninjas" src={codesandbox} />
+          <img style={skilllogo} alt="codesandbox" src={codesandbox} />
         </Col>
         <Col xl={2} lg={2} md={2} xs={6}>
-          <img style={skilllogo} alt="coding-ninjas" src={visualstudiocode} />
+          <img style={skilllogo} alt="vscode" src={visualstudiocode} />
         </Col>
-         <Col xl={2} lg={2} md={2} xs={6}>
-          <img style={skilllogo} alt="coding-ninjas" src={git} />
+         
+       <Col xl={1} lg={1} sm={1} xs={1} ></Col>
+      </Row>
+     <Row className="space-1">
+        <Col xl={1} lg={1} sm={1} xs={1} ></Col>
+        <Col xl={2} lg={2} md={2} xs={6}>
+          <img style={skilllogo} alt="git" src={git} />
         </Col>
+        <Col xl={2} lg={3} md={2} xs={6}>
+          <img style={skilllogo} alt="netlify" src={netlify} />
+        </Col>
+        
+       <Col xl={1} lg={1} sm={1} xs={1} ></Col>
       </Row>
 
       <Row id="about" className="center space">
