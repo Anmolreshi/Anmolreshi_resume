@@ -10,6 +10,10 @@ import {
   CardBody,
   CardTitle
 } from "reactstrap";
+import nextjs from "./images/nextjs.png";
+import material from "./images/material.png";
+import tailwind from "./images/tailwind.png";
+import styled from "./images/styled.png";
 import dev1 from "./images/dev1.png";
 import git from "./images/git.png";
 import hashnode from "./images/hashnode.png";
@@ -290,26 +294,33 @@ function App() {
         <b>My Stack</b>
       </Row>
       <Row className="space-1" style={{ display: "flex" }}>
-        <Col xl={2} lg={2} xs={2}>
+       <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
+        <Col xl={2} lg={2} md={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={html} />
         </Col>
-      <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={c} />
-        </Col>
-      <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={cplus} />
-        </Col>
-      <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={bootstrap} />
-        </Col>
-      <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={redux} />
-        </Col>
-        <Col xl={2} lg={2} xs={2}>
+       <Col xl={2} lg={2} md={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={css} />
         </Col>
+      <Col xl={2} lg={2} md={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={c} />
+        </Col>
+      <Col xl={2} lg={2} md={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={cplus} />
+        </Col>
+      <Col xl={2} lg={2} md={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={bootstrap} />
+        </Col>
+      <Col xl={2} lg={2} md={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={redux} />
+        </Col>
+       <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
+        
       </Row>
       <Row className="space-1" style={{ display: "flex" }}>
+     <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
+        <Col xl={2} lg={2} md={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={c} />
+        </Col>
         <Col xl={2} lg={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={Javascript} />
         </Col>
@@ -319,9 +330,24 @@ function App() {
         <Col xl={2} lg={2} xs={2}>
           <img style={skilllogo} alt="coding-ninjas" src={react} />
         </Col>
-        {/* <Col xl={2} lg={2} xs={2}>
-          <img style={skilllogo} alt="coding-ninjas" src={computer} />
-        </Col> */}
+        <Col xl={2} lg={2} xs={2}>
+          <img style={skilllogo} alt="tailwind" src={tailwind} />
+        </Col>
+     <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
+      </Row>
+    
+      <Row className="space-1" style={{ display: "flex" }}>
+     <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
+        <Col xl={2} lg={2} md={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={nextjs} />
+        </Col>
+        <Col xl={2} lg={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={styled} />
+        </Col>
+        <Col xl={2} lg={2} xs={2}>
+          <img style={skilllogo} alt="coding-ninjas" src={material} />
+        </Col>
+     <Col xl={1} lg={1} md={1} sm={1} xs={1}></Col>
       </Row>
 
       <Row className="center space headingtitle">
