@@ -82,7 +82,7 @@ function App() {
       </Row>
 
       <Row className="center space headingtitle">
-        <b>Organization I have worked/Working for</b>{" "}
+        <b>Organization I have worked for </b>{" "}
       </Row>
       <Row className="space-1" style={{ display: "flex" }}>
         <Col xl={3} lg={4} md={4} xs={5}>
