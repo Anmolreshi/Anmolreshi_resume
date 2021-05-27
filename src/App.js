@@ -16,7 +16,6 @@ import nextjs from "./images/nextjs.png";
 import material from "./images/material.png";
 import tailwind from "./images/tailwind.png";
 import styled from "./images/styled.png";
-import dsc from "./images/dsc.png";
 import dev1 from "./images/dev1.png";
 import git from "./images/git.png";
 import hashnode from "./images/hashnode.png";
@@ -30,7 +29,7 @@ import gs from "./images/gs.jpg";
 import cal from "./images/cal.png";
 import parakh from "./images/parakh.jpeg";
 import htm from "./images/htm.png";
-import coding from "./images/codingninjas.jpg";
+
 import mozilla from "./images/mozilla.jpg";
 import gdg from "./images/gdg.jpg";
 import visualstudiocode from "./images/vscode.png";
@@ -88,13 +87,13 @@ function App() {
       </Row>
       <Row className="space-1" style={{ display: "flex" }}>
         <Col xl={3} lg={4} md={4} xs={5}>
-          <img className="skilllogo1" alt="coding-ninjas" src={codingninjas} />
+          <img className="skilllogo1" alt="coding-ninjas" src={htm} />
         </Col>
         <Col xl={2} lg={4} md={4} xs={4}>
           <img className="skilllogo1" alt="htm" src={htm} />
         </Col>
         <Col xl={1} lg={4} md={4} xs={3}>
-          <img className="skilllogo1" alt="googledevelopergroup" src={dsc} />
+          <img className="skilllogo1" alt="googledevelopergroup" src={gdg} />
         </Col>
         <Col xl={2} lg={4} xs={6}>
           <img className="skilllogo1" alt="mozilla" src={mozilla} />
