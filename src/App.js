@@ -441,19 +441,23 @@ function App() {
                     <img className="socialmedia" alt="instagram" src={instagram} />
                       </a>
                   </Col>
+                   <Col xs={1}></Col>
                   <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
                     <img className="socialmedia" alt="snapchat" src={snapchat} />
                   </Col>
+                  <Col xs={1}></Col>
                   <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
                       <a href="https://www.linkedin.com/in/anmolreshi/">
                     <img className="socialmedia" alt="linkedin" src={linkedin} />
                       </a>
                   </Col>
+                  <Col xs={1}></Col>
                   <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
                     <a href="https://twitter.com/AnmolreshiAnmol">
                     <img className="socialmedia" alt="email" src={twitter} />
                       </a>
                   </Col>
+                  <Col xs={1}></Col>
                   <Col md={1}></Col>
       </Row>
       <Row className="space"></Row>
