@@ -422,43 +422,44 @@ function App() {
       <Row className="center space-1">
                    <Col md={1}></Col>
                     <Col xs={2}></Col>
-                  <Col xl={1} lg={1} md={1} sm={3} xs={1}>
+                  <Col xl={1} lg={1} md={1} sm={3} xs={2}>
                     <a href="https://github.com/Anmolreshi">
                     <img className="socialmedia" alt="github" src={github} />
                       </a>
                    </Col>
-                   <Col xl={1} lg={1} md={1}sm={3} xs={1}>
+                   <Col xl={1} lg={1} md={1}sm={3} xs={2}>
                     <a href="https://hashnode.com/@anmolreshi">
                     <img className="socialmedia" alt="hashnode" src={hashnode} />
                       </a>
                   </Col>
-                  <Col xl={1} lg={1} md={1} sm={3} xs={1}>
+                  <Col xl={1} lg={1} md={1} sm={3} xs={2}>
                     <a href="mailto:anmolreshi@gmail.com">
                     <img className="socialmedia" alt="email" src={gmail} />
                       </a>
                   </Col>
-                  <Col xl={1} lg={1}  md={1} sm={3} xs={1}>
+                  <Col xl={1} lg={1}  md={1} sm={3} xs={2}>
                     <a href="https://www.instagram.com/iamanmolreshi_20/">
                     <img className="socialmedia" alt="instagram" src={instagram} />
                       </a>
                   </Col>
                    <Col xs={2}></Col>
-                  <Col xl={1} lg={1}  md={1} sm={2} xs={1}>
+                   <Col xs={3}></Col>
+                  <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
                     <img className="socialmedia" alt="snapchat" src={snapchat} />
                   </Col>
             
-                  <Col xl={1} lg={1}  md={1} sm={2} xs={1}>
+                  <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
                       <a href="https://www.linkedin.com/in/anmolreshi/">
                     <img className="socialmedia" alt="linkedin" src={linkedin} />
                       </a>
                   </Col>
                
-                  <Col xl={1} lg={1}  md={1} sm={2} xs={1}>
+                  <Col xl={1} lg={1}  md={1} sm={2} xs={2}>
                     <a href="https://twitter.com/AnmolreshiAnmol">
                     <img className="socialmedia" alt="email" src={twitter} />
                       </a>
                   </Col>
-                  <Col xs={1}></Col>
+                  <Col xs={3}></Col>
                   <Col md={1}></Col>
       </Row>
       <Row className="space"></Row>
