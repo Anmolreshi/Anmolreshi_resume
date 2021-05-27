@@ -124,11 +124,7 @@ function App() {
               />
               <CardBody>
                 <CardTitle tag="h5">Slack Clone </CardTitle>
-                <CardText
-                  style={{ textAlign: "justify", justifyContent: "justify" }}
-                >
-                 Made Front end of Slack Clone using React Js , Redux ,React Hooks, Firebase and some Js libraries .
-                </CardText>
+                
                 <Button
                   href="https://github.com/Anmolreshi/slack-clone"
                   color="warning"
@@ -150,12 +146,7 @@ function App() {
               />
               <CardBody>
                 <CardTitle tag="h5">Ipod App Using React</CardTitle>
-                <CardText
-                  style={{ textAlign: "justify", justifyContent: "justify" }}
-                >
-                  App made using React Js .Included many features like music ,
-                  games etc.
-                </CardText>
+                
                 <Button
                   href="https://github.com/Anmolreshi/Ipod-Reactjs-Project"
                   color="warning"
@@ -187,11 +178,7 @@ function App() {
               />
               <CardBody>
                 <CardTitle tag="h5">To Do List</CardTitle>
-                <CardText
-                  style={{ textAlign: "justify", justifyContent: "justify" }}
-                >
-                  An Interactive Ui based To do List Storing daily Tasks and with features.
-                </CardText>
+                
                 <Button
                   href="https://github.com/Anmolreshi/TodoList-ReactHooks"
                   color="warning"
@@ -213,12 +200,7 @@ function App() {
               />
               <CardBody>
                 <CardTitle tag="h5">  Covid Tracker Using React Hooks</CardTitle>
-                <CardText
-                  style={{ textAlign: "justify", justifyContent: "justify" }}
-                >
-                 Made Covid Tracker for J & k which would be fetching Real time data from API.
-    
-                </CardText>
+               
                 <Button
                   href="https://github.com/Anmolreshi/CovidTracker"
                   color="warning"
@@ -248,10 +230,7 @@ function App() {
               />
               <CardBody>
                 <CardTitle tag="h5">Covid Warriors Website</CardTitle>
-                <CardText>
-                  Worked with Team of 7 memebes on developeing App for covid
-                  Warriors as a thankful gesture to them.
-                </CardText>
+               
                 <Button
                   href="https://github.com/dkots111/team-barfi"
                   color="warning"
@@ -273,10 +252,7 @@ function App() {
               />
               <CardBody>
                 <CardTitle tag="h5">Dog Image generator API</CardTitle>
-                <CardText>
-                  Made a website which display random dog images using dog API.
-    Made it using react and designing done through Reactstrap.
-                </CardText>
+             
                 <Button
                   id="skills"
                   href="https://github.com/Anmolreshi/randomdogapi"
