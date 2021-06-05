@@ -1,5 +1,5 @@
 # Anmolreshi_resume
- Online Portfolio 
+ Online Portfolio | Anmol Reshi
  <br/>
 ## TECH STACKS
 - React Js 
