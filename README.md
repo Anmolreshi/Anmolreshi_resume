@@ -4,6 +4,6 @@
 ## TECH STACKS
 - React Js 
 - Js
-- CSS
+- CSS 
 - Reacstrap
 - Bootstrap
