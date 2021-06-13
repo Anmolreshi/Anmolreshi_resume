@@ -3,7 +3,7 @@
  <br/>
 ## TECH STACKS
 - React Js 
-- Js
+- Js 
 - CSS 
 - Reacstrap
 - Bootstrap    
