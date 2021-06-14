@@ -1,7 +1,7 @@
 # Anmolreshi_resume
  Online Portfolio | Anmol Reshi
  <br/>
-## TECH STACKS
+## TECH STACKS ( Used )
 - React Js 
 - Js 
 - CSS 
