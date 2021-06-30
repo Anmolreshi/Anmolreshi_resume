@@ -5,7 +5,7 @@
 - React Js 
 - Js 
 - CSS 
-- Reacstrap
+- Reacstrap 
 - Bootstrap       
   
  
